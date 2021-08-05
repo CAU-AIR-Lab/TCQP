@@ -7,7 +7,7 @@ This program is designed to perform the feature selection for text classificatio
 This software is a Matlab implementation of proposed method. The original version of this program was written by Hyunki Lim.
 
 ### [Paper]
-Hyunki Lim and Dae-Won Kim, [Generalized Term Similarity for Feature Selection in Text Classification Using Quadratic Programming]()
+Hyunki Lim and Dae-Won Kim, [Generalized Term Similarity for Feature Selection in Text Classification Using Quadratic Programming](https://www.mdpi.com/1099-4300/22/4/395)
 Entropy, 2020
 
 ## License
